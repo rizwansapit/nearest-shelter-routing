@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# GIS data
+data/raw/*
+data/processed/*
+
+# Keep data folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Shapefile components
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+*.sbn
+*.sbx
+
+# Raster data
+*.tif
+*.tiff
+*.img
+
+# GeoPackage
+*.gpkg
+
+# Database backups
+*.backup
+*.dump
+*.sql.gz
