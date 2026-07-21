@@ -48,7 +48,7 @@ Streamlit map.
 
 \- \[x] Python environment configured
 
-\- \[ ] Spatial database configured
+\- \[x] Spatial database configured
 
 \- \[ ] Road data imported
 
