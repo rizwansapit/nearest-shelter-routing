@@ -46,7 +46,7 @@ Streamlit map.
 
 \- \[x] Project workspace initialized
 
-\- \[ ] Python environment configured
+\- \[x] Python environment configured
 
 \- \[ ] Spatial database configured
 
