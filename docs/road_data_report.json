@@ -1,0 +1,53 @@
+{
+  "generated_at_utc": "2026-07-22T08:40:49.381703+00:00",
+  "source_file": "Road.shp",
+  "target_crs": "EPSG:32650",
+  "source": {
+    "input_records": 6622,
+    "input_crs": "EPSG:29850",
+    "input_columns": [
+      "fid",
+      "full_id",
+      "osm_id",
+      "osm_type",
+      "highway",
+      "name",
+      "surface",
+      "ref",
+      "tunnel",
+      "bridge",
+      "level",
+      "geometry"
+    ],
+    "input_geometry_types": {
+      "LineString": 6611,
+      "MultiLineString": 11
+    },
+    "null_geometries": 0,
+    "empty_geometries": 0,
+    "invalid_geometries": 0
+  },
+  "cleaning": {
+    "removed_null_or_empty": 0,
+    "invalid_before_repair": 0,
+    "removed_non_line_geometries": 0,
+    "removed_duplicate_geometries": 0,
+    "removed_zero_length": 0,
+    "input_records": 6622,
+    "output_records": 6638,
+    "invalid_after_repair": 0
+  },
+  "output": {
+    "records": 6638,
+    "geometry_type": "LineString",
+    "minimum_length_m": 0.543,
+    "maximum_length_m": 8480.358,
+    "total_length_km": 972.013,
+    "bounding_box": {
+      "minimum_x": 395593.176,
+      "minimum_y": 638173.665,
+      "maximum_x": 426269.645,
+      "maximum_y": 657893.944
+    }
+  }
+}

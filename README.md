@@ -50,7 +50,7 @@ Streamlit map.
 
 \- \[x] Spatial database configured
 
-\- \[ ] Road data imported
+\- \[x] Road data imported
 
 \- \[ ] Shelter data imported
 
